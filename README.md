@@ -1,1 +1,2 @@
 [![CI](https://github.com/MiXACT/yarnGoblin/actions/workflows/web.yml/badge.svg)](https://github.com/MiXACT/yarnGoblin/actions/workflows/web.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/own6lgv9l8mn3w8x?svg=true)](https://ci.appveyor.com/project/MiXACT/yarngoblin)
